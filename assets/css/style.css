@@ -57,7 +57,7 @@ p {
     text-align: center;
     margin: 0 auto;
     text-align: left;
-    padding: 5px;
+    padding: 10px;
 }
 
 .mainContent {
@@ -72,6 +72,7 @@ p {
     float: left;
     width: 100px;
     margin: 5px;
+    padding: 7px;
 }
 .content {
     padding: 5px;
